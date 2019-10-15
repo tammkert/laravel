@@ -1,4 +1,4 @@
-#Laravel - tund 6 tunnitöö
+# Laravel - tund 6 tunnitöö
 
 **Github demo link: github.com/stenmarkus/laravel**
 
