@@ -76,6 +76,18 @@ edasi loodi **HomeController.php** fail
 
 tunnis tehtu toimus arvutis kaustas C:\Users\Student Admin\social
 
+siis edasi vs code'i terminalis
+
+**php artisan make:migration
+
+**create_followers_table
+
+**php artisan make:controller**
+
+ja luua veel üks uus fail
+
+profile.blade.php
+
 
 
 
