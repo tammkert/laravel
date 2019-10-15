@@ -1,6 +1,6 @@
 # Laravel - tund 6 tunnitöö
 
-**Github demo link: github.com/stenmarkus/laravel**
+**Github demo link: https://github.com/stenmarkus/laravel**
 
 alguses vaadata kas php on arvutis olemas
 
